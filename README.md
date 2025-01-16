@@ -70,7 +70,7 @@ python -m mysql_mcp_server
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mysql_mcp_server.git
+git clone https://github.com/Vesias/mysql_mcp_server.git
 cd mysql_mcp_server
 
 # Create virtual environment
